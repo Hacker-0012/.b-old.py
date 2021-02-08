@@ -1,0 +1,1 @@
+print('Fucked All Kurd')
